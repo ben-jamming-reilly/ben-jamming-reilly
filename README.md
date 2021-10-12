@@ -1,6 +1,21 @@
-### Hi there 👋 
-
 ## The name is Ben Reilly, how the heck are ya?
+
+Currently working as a Platform Engineer for T-Mobile
+
+### Passions/Interests
+Web/Cloud Technologies, it's the future...
+Hippy Vibes
+Music, love to shred on my guitar
+Distributed Computing
+
+<samp>
+<p>Here are some things I have worked on</p>
+<ul> 
+  <li><a href="https://offcampus.site/">OffCampus</a> like rate my professor but for houses near my university</li>
+  <li><a href="https://semiprogames.com/">SemiProGames</a> a startup that allows friends to compete with eachother at their favorite games for some dough</li>
+  <li><a href="https://www.tuneshuffle.com/">tuneshuffle</a> a way to discover new music through spotify and some ML magic</li>
+</ul>
+</samp>
 
 <!--
 **ben-jamming-reilly/ben-jamming-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
