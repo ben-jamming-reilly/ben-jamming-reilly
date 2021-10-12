@@ -3,11 +3,12 @@
 - Pronouns: He/Him/They
 
 ### Passions/Interests
+- Web/Cloud Technologies, it's the future...
+- Hippy Vibes
+- Music, love to shred on my guitar
+- Distributed Computing
+
 <samp>
-  <p>Web/Cloud Technologies, it's the future...</p>
-  <p>Hippy Vibes</p>
-  <p>Music, love to shred on my guitar</p>
-  <p>Distributed Computing</p>
   <h4>Here are some things I have worked on</h4>
   <ul> 
     <li><a href="https://offcampus.site/">OffCampus</a> like rate my professor but for houses near my university</li>
