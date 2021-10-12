@@ -1,6 +1,5 @@
 ## The name is Ben Reilly, how the heck are ya?
-- Currently working as a Platform Engineer for T-Mobile
-- Pronouns: He/Him/They
+Currently working as a Platform Engineer for T-Mobile. Pronouns: He/Him/They
 
 ### Passions/Interests
 - Web/Cloud Technologies, it's the future...
