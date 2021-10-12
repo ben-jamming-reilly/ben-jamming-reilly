@@ -12,7 +12,7 @@ Currently working as a Platform Engineer for T-Mobile.
   <ul> 
     <li><a href="https://offcampus.site/">OffCampus</a> like rate my professor but for houses near my university</li>
     <li><a href="https://semiprogames.com/">SemiProGames</a> a startup that allows friends to compete with eachother at their favorite games for some dough</li>
-    <li><a href="https://www.tuneshuffle.com/">tuneshuffle</a> a way to discover new music through spotify and some ML magic</li>
+    <li><a href="https://www.tuneshuffle.com/">tuneshuffle</a> a way to discover new music through spotify using some ML magic</li>
   </ul>
 </samp>
 
