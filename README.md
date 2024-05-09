@@ -1,18 +1,20 @@
-## The name is Ben Reilly, how the heck are ya?
-Currently working as a Platform Engineer for T-Mobile.
+## The name is Ben Reilly, hope you're doing well?
+YC Alum, and currently cooking up some stuff. Just trying to spread good vibes
+
 
 ### Passions/Interests
-- Web/Cloud Technologies, it's the future...
-- Hippy Vibes
-- Music, love to shred on my guitar
+- Web Tech (htmx mentioned)
+- Plur Vibes
+- Music
 - Distributed Computing
+- Building cool shit for cool people
 
 <samp>
-  <h4>Here are some things I have worked on</h4>
+  <h4>Here are something I've done or am working on</h4>
   <ul> 
-    <li><a href="https://offcampus.site/">OffCampus</a> like rate my professor but for houses near my university</li>
-    <li><a href="https://semiprogames.com/">SemiProGames</a> a startup that allows friends to compete with eachother at their favorite games for some dough</li>
-    <li><a href="https://www.tuneshuffle.com/">tuneshuffle</a> a way to discover new music through spotify using some ML magic</li>
+    <li><a href="https://parasocial.online/">parasocial</a> A way to find and discover moments from creator</li>
+    <li><a href="https://reallycandid.com/">Really Candid</a> Anonymous 360 feedback tool, powered by LLMs </li>
+    <li><a href="https://github.com/ben-jamming-reilly/OffCampus">Off Campus</a> Kinda like ratemyprofessor but for landlord and off campus housing </li>
   </ul>
 </samp>
 
