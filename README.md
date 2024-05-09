@@ -14,7 +14,7 @@ YC Alum, and currently cooking up some stuff. Just trying to spread good vibes
   <ul> 
     <li><a href="https://parasocial.online/">parasocial</a> A way to find and discover moments from creator</li>
     <li><a href="https://reallycandid.com/">Really Candid</a> Anonymous 360 feedback tool, powered by LLMs </li>
-    <li><a href="https://github.com/ben-jamming-reilly/OffCampus">Off Campus</a> Kinda like ratemyprofessor but for landlord and off campus housing </li>
+    <li><a href="https://github.com/ben-jamming-reilly/OffCampus">Off Campus</a> Kinda like ratemyprofessors.com but for landlords and off campus housing </li>
   </ul>
 </samp>
 
